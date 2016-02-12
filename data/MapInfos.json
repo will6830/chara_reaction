@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"expanded":true,"name":"自室A","order":1,"parentId":0,"scrollX":416,"scrollY":319.5},
+{"id":2,"expanded":false,"name":"自室B","order":2,"parentId":1,"scrollX":424,"scrollY":319.5}
+]

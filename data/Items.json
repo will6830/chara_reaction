@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"なんの変哲も無い水","effects":[],"hitType":0,"iconIndex":228,"itypeId":1,"name":"水","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"お酒","effects":[{"code":44,"dataId":1,"value1":1,"value2":0}],"hitType":0,"iconIndex":275,"itypeId":1,"name":"ワイン","note":"","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"少し酔いが覚める","effects":[{"code":44,"dataId":5,"value1":1,"value2":0}],"hitType":0,"iconIndex":178,"itypeId":1,"name":"酔い覚まし","note":"","occasion":2,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
